@@ -31,7 +31,7 @@
     NSString *path = [[NSBundle mainBundle]pathForResource:@"source" ofType:@"plist"];
     self.dictionary = [NSDictionary dictionaryWithContentsOfFile:path];
     self.view.backgroundColor = [UIColor whiteColor];
-    
+    NSLog(@"xxxxxxxxxxxx");
     UICollectionViewFlowLayout *loyout = [[UICollectionViewFlowLayout alloc]init];
     loyout.minimumLineSpacing = 10;
     loyout.minimumInteritemSpacing = 0;
