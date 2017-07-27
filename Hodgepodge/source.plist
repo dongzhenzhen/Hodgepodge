@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ZBarSDk扫描</key>
+	<string>ZBarSDKViewController</string>
+	<key>原生扫描二维码</key>
+	<string>LCQRcodeScanViewController</string>
+	<key>ScrollViewController</key>
+	<string>ScrollViewController</string>
+	<key>联动视图</key>
+	<string>chainReactionPictureViewController</string>
+	<key>识别二维码</key>
+	<string>ReadCodeViewController</string>
+	<key>裁剪图片</key>
+	<string>ClipsImageViewController</string>
+	<key>照片库</key>
+	<string>PhotosAlbumViewController</string>
+	<key>瀑布</key>
+	<string>FlowViewController</string>
+	<key>人脸识别</key>
+	<string>FaceViewController</string>
+</dict>
+</plist>
